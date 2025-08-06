@@ -509,7 +509,7 @@
 					collaborationtive work of Heather Schatz and Eric Chan, to name a
 					handful.</bibl>
 				<bibl>3. See <persName key="Osborne, Peter, 1958-...." ref="http://viaf.org/viaf/76368749" ana="webannotation:http://temp.lincsproject.ca/lYPBBZSyJOl">Peter Osborne</persName>, "Adorno and the Metaphysics of Modernism: The Problem of
-					a ‘Postmodern' Art" and Peter Dews, "Adorno, Poststructuralism, and the Critique
+					a ‘Postmodern' Art" and <persName key="Dews, Peter" ref="http://viaf.org/viaf/262954399" ana="webannotation:http://temp.lincsproject.ca/8tnPns2yp2b">Peter Dews</persName>, "Adorno, Poststructuralism, and the Critique
 					of Identity," both in Andrew Benjamin, ed., The Problems of Modernity: Adorno
 					and Benjamin (New York: Routledge, 1989).</bibl>
 				<bibl>4. Brunkhorst, "Irreconcilable Modernity," 52.</bibl>
@@ -3648,6 +3648,93 @@
         "type": "crm:E21_Person",
         "label": "Osborne, Peter, 1958-....",
         "description": "Osborne, Peter"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8tnPns2yp2b">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8tnPns2yp2b",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-08-06T13:48:16.995Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/mpz5DwFr8zm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mpz5DwFr8zm/selector/textPosition/YCD1BHoFnY3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38539,
+                "end": 38549,
+                "refinedBy": {
+                    "id": "/target/mpz5DwFr8zm/selector/textQuote/yRdleNX1uOE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Peter Dews",
+                    "prefix": " See Peter Osborne, \"Adorno and the Metaphysics of Modernism: The Problem of\n\t\t\t\t\ta ‘Postmodern' Art\" and",
+                    "suffix": " \"Adorno, Poststructuralism, and the Critique\n\t\t\t\t\tof Identity,\" both in Andrew Benjamin, ed"
+                }
+            },
+            {
+                "id": "/target/mpz5DwFr8zm/selector/css/Uytlxr7sXGA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8tnPns2yp2b]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/262954399",
+        "type": "crm:E21_Person",
+        "label": "Dews, Peter",
+        "description": "Dews, Peter, 1952-...."
     },
     "P2_has_type": [
         "oa:identifying"
