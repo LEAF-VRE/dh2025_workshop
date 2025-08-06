@@ -1,0 +1,3315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Digital_hybridity_and_the_ques</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: dkj004@bucknell.edu</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="1"/>
+
+				<head>Digital Hybridity and the Question of Aesthetic Opposition</head>
+				<byline><docAuthor><persName key="Drucker, Johanna, 1952-...." ref="http://viaf.org/viaf/71503942" ana="webannotation:http://temp.lincsproject.ca/naJ1mS9rVUm">Johanna Drucker</persName></docAuthor> University of Virginia</byline>
+				<p>Is there a fanatical inevitably in the capacity of electronic media to absorb all
+					forms of human expression and experience into data formats? In his discussions
+					of aesthetics and ideology, <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/KHBjmkTuXJK">Theodor Adorno</persName> continually reiterated the caveat
+					that when positivist logic invades culture to an extreme then representation
+					appears to present a "unitary" truth in a totalizing model of thought which
+					leaves little room for critical action or agency.(1) Pulling this unity apart is
+					essential to critical rationality (as distinct from instrumental rationality) in
+					its struggle to maintain a gap between data and idea, form and experience, the
+					absolute and the lived. In the hybrid condition of the digital the separation
+					necessary to sustain the distinction between the instrumental and the critical
+					appears to be precluded. The "absolute" identity of the mathematical underpinnings of all digital
+					activity seems to collapse concept and materiality into one and the same as an
+					encoded file. As the popular idea of technological "truth" continues to function
+					as an instrumental force in the in- creasing rationalization of culture, artwork
+					which renders such "truths" assimilable, performing in what <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/NWp1Sl4PjOD">Adorno</persName> would term a
+					reconciliatory manner. Such work seems profoundly insidious—unless it can be
+					qualified within a critique of its assumptions, claims, and premises.</p>
+				<p>Late-twentieth-century technical innovation pushes the boundaries of once
+					discrete areas of cultural activity, transforming an ever increasing number of
+					arenas into colonized domains within the managed bureaucracy of data processing.
+					As it does so, the hard and fast opposition between two traditions which had
+					been markedly distinct in the visual arts are increasingly difficult to
+					sustain—in part because they each depended upon identification with
+					contradictory concepts of the role of reason. The first is the antilyrical,
+					antisubjective, rational tradition of art which aspires to the condition of
+					science. The second is a humanistic, lyrical, subjective romanticism which
+					opposed emotional, natural, and/or chaotic forces to those of technologically
+					driven progress. Hybridity of machine/ organic entities is a current condition.
+					The old oppositions no longer hold—the machine is the flesh, the body is
+					technical, nature is culture. The cyborg is the sign and actualization of the
+					current lived condition of humanity—and more and more it is clear that as the
+					arts have helped familiarize and legitimate many of these once unthinkable ideas
+					the capacity for aesthetics to regulate boundaries between rational and
+					irrational regimes of technology is limited.</p>
+				<p> There are many areas of contemporary art activity in which these themes could be
+					examined: the imagery of mutation, sculpture and installation work which merges
+					new technology with conventional media, work which extends the human body
+					through technological prostheses or otherwise toys with machine aesthetics in
+					new, synthetic ways.(2) All are interesting manifestations of a profound
+					transformation. But the implications of this change can be brought into focus
+					through a more narrow, and perhaps more fundamental avenue: an inquiry into the
+					identity of digital technology. Digitalization seems to offer the possible
+					fulfillment of Gottfried Leibniz's dream of a universe fully available to
+					logical analysis and description—in short, his vision of mathesis as a complete
+					logic that maps in a one-to-one correlation between thought and representation.</p>
+					<p>As art's dialogue with technology extends into the digital arena, the questions
+					that arise can be posed in philosophical terms which frame their political
+					implications. Here these questions will be pose in terms of the work of <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/0WQZqaK9TNe">Adorno</persName>'s
+					conception of aesthetics as potentially resistant (no longer liberatory, given
+					his profound pessimism) At midcentury, <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/2qRlTLE8pUQ">Adorno</persName> struggle to articulate the
+					capacity of aesthetics to resist the forces and tropes of instrumental reason
+					informing an increasingly commodified consumer society. All cultural production
+					(and reception) had come to mirror the processes of capitalism, with their
+					mind-dulling repetitions and formulas, while the capacity of what passed for
+					reason to perform with destructive force had been made all too vividly clear
+					within the events of the Second World War. Aesthetics could only effectively
+					resist such processes through a refused of utility and systemality. <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/Ca3a66QmSX6">Adorno</persName>
+					placed considerable weight on formal strategies of artistic production as a
+					means to achieve this goal. These can be identified by the terms
+						<emph>determinate irreconcilability</emph>, <emph>dissonance</emph>, and
+						<emph>nonidentity</emph> within a work of art.(3) Are these concepts
+					sustainable within the context of the digital production of works of art? Or
+					does the qualified absence of materiality of the digital environment
+					fundamentally alter the way an artwork's identity and self-identity can be
+					conceived within the dialectic of subject/object relations which <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/IVVfDqsCuY9">Adorno</persName> derived
+					from <persName key="Hegel, Georg Wilhelm Friedrich, 1770-1831." ref="http://viaf.org/viaf/89774942" ana="webannotation:http://temp.lincsproject.ca/T0tiI6fHvuW">Hegel</persName>'s aesthetics?</p>
+				<p>A secondary aspect of this discussion is the relation of twentieth-century art to
+					positivistic logic and its embodiment of an Enlightenment ideal of reason. logic
+					only rarely serves as the thematic subject of a work of art, but positivist
+					assumptions about systemality under- lie the motivation of many
+					twentieth-century artists' practices. Art using digital technology depends on
+					mathematical logic and its peculiar hybrid sibling, programming language. Within
+					digital tech&gt;nology an image or artwork comes to be perceived as "information
+					and therefore as an essential, absolute, quantifiable identity. The notion that
+					an image can be "reduced to or is "equivalent to" a data file, an algorithm, a
+					program, or any mathematical, quantifiable identity are all ideas which give
+					rise to a notion of digital identity as absolute and certain.</p>
+				<p>Leibniz's dream is <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/lkmq0y9HsWj">Adorno</persName>'s nightmare—and <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/25AWF67osEe">Adorno</persName> and <persName key="Horkheimer, Max, 1895-1973." ref="http://viaf.org/viaf/14771315" ana="webannotation:http://temp.lincsproject.ca/e43LM9XWag5">Max Horkheimer</persName> were quite
+					clear on this point in <title>Dialectics of Enlightenment</title>, when they
+					suggested that <persName key="Kant, Immanuel, 1724-1804." ref="http://viaf.org/viaf/82088490" ana="webannotation:http://temp.lincsproject.ca/dJzHBs16ZkG">Kant</persName>'s aesthetics of purposelessness is a necessary (the only)
+					antidote and means of resistance to the domination by all sections of society
+					and culture by the enslaving. deceptive, forces of the mass culture capitalism
+					(always read as an extension of rationalized modes of production into the
+					cultural sphere). In citing the ways such a technorationality infused itself
+					into cultural practice, <persName key="Horkheimer, Max, 1895-1973." ref="http://viaf.org/viaf/14771315" ana="webannotation:http://temp.lincsproject.ca/Kqtgm5E218Y">Horkheimer</persName> and <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/sxfjWSVt9mi">Adorno</persName> take issue with the ways the
+					perceptions of representation are themselves subjected to such a positivist
+					logic. This occurs, <persName key="Horkheimer, Max, 1895-1973." ref="http://viaf.org/viaf/14771315" ana="webannotation:http://temp.lincsproject.ca/yaHtRo7ML4D">Horkheimer</persName> and <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/LiouEb2abmQ">Adorno</persName> suggest, in the approach to
+					language/image in which a literalist, positivist interpretation forces
+					representation into a collusion/elision with the "real" so that one takes the
+					"word for the thing"—the "image for the real"—the "representation for the
+					referent" in every instance.(4) This collapse of the discrete structures of
+					representation into a perceived unity makes it virtually (in the technical sense
+					of the word) impossible to insert any critical distance into an understanding of
+					representation and its social function. The distance between Leibniz and <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/UIErd1vzknw">Adorno</persName>
+					coincides with the temporal span which encompasses cultural modernity. What was
+					for Leibniz the glimpsed possibility of total, all-encompassing, descriptive and
+					analytic reason has become for <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/8xw6frDidw4">Adorno</persName> (and <persName key="Horkheimer, Max, 1895-1973." ref="http://viaf.org/viaf/14771315" ana="webannotation:http://temp.lincsproject.ca/H0W2wjFxFra">Horkheimer</persName> and others) the
+					nightmarish image of totalizing control effected by instrumental
+					rationality.</p>
+				<p>Artistic engagement with modernity as a phenomena which rapidly transformed
+					every area of cultural production, communication, and administration attached a
+					wide range of valences to rationality and technology. A keen awareness of the
+					effects of the radical changes wrought on lived experience produced celebratory
+					as well as critical responses. The positive utopianism of avant-gardes was
+					premised on the belief that progress promised liberation of humanity from
+					oppressive labor and its social constants, while the nihilis- tic negation of
+					technorationality attacked these premises and the entire tradition of positivist
+					thought with its origins in the Enlightenment. There was also a tension between
+					the idea that the escape from reason was the means to salvation for the human
+					spirit and a contradictory position that invocked rationality as an antidote to
+					injustice and social onequities in the name of an Enlightenment project. Many
+					reforminst and counterculture movements of the late nineteenth century give
+					evidence of increased momentum for a critical opposition to an unchecked and
+					unquestioned concept of "progress" as the automatic gloss on any feature of
+					modern technology or its effects.</p>
+				<p>By the early twentieth century, aesthetic engagement with the technological
+					manifestations of rationality (and later the irrational manifestions of supposed
+					reason) map across a considerable range of more sharply defined positions. These
+					include the enthusiastic production of a machine aesthetic—Robert Delaunay's
+					renowned paintings of the Eiffel Tower, Fernand Léger's machine motifs, and
+					futurist works (and rhetoric) in praise of motor cars, trains, and industrially
+					produced objects. A clear privilege was assigned to the inorganic and technical
+					over and against the holistic, humanistic, or organic. The ironic counterpart in
+					the work of <rs key="Dada" ref="http://www.wikidata.org/entity/Q6034" ana="webannotation:http://temp.lincsproject.ca/Cfsr5GPKjdn">Dada</rs> poets and painters, conspicuously nuanced in the oeuvre of
+					<persName key="Duchamp, Marcel, 1887-1968" ref="http://viaf.org/viaf/36917441" ana="webannotation:http://temp.lincsproject.ca/kpu8qIbpjd8">Marcel Duchamp</persName>, is an understandable contemporary counterpoint response. The
+					embrace of chance operations and resolutely asystematic negations of the very
+					premises of rationality eschewed any nostalgic return to the lyrical, personal,
+					or artisanal which had been held out as antidotes to industrialization and
+					modernity in earlier decades in the Arts and Crafts movement, in symbolist
+					aesthetics, or among the Pre-Raphaelites.</p>
+				<p>The influence of reason in the sphere of cultural practice can also be seen in
+					the colonization of humanistic "soft" disciples by a "scientificizing" attitude.
+					The idea of the social <emph>sciences</emph> of linguistics, anthropology,
+					society, and politics gains currency in the late nineteenth and early twentieth
+					centuries. The aspirations of the usual arts to identify their own systematic
+					tenets and become practiced with guaranteeable, repeatable, and predictable
+					"results" are part of this general cultural pattern. All of this would be merely
+					a historical description of a past cultural moment were it not for the fact that
+					the continuum which streetches from this scientificizing impulse continues into
+					the present, providing assumptions on which the legitimacy of the digital is
+					premised. And one crucial factor in forging the connection which interweave the
+					sciences and humanities is the historical emergence of logic (first in George
+					Boole's "algebra", which comes to serve as the basis of programming languages.
+					Logic comes to dominante the philosophical inquiry into language in the work of
+					anglo-american analytic philosophers <persName key="Russell, Bertrand, 1872-1970." ref="http://viaf.org/viaf/36924137" ana="webannotation:http://temp.lincsproject.ca/I4utIZRaelr">Bertrand Russell</persName> and Alfred North
+					Whitehead, and the group around Rudolf Carnap. On the basis of this link the
+					concept of <emph>mathesis</emph>—the logical calculus of thought—revives its
+					potency within the digital arts—since all digital and electric operations are
+					based on a mathematical processing (if not an algorithmic production) of visual
+					images and works of art. With the realization that it is such mathematical logic, and not a machine
+					aesthetic, which is the basis of digital work's relation to the technological as
+					a concept and as a practice, it is possible to begin to place this link in the
+					context of the larger discussion of those overt connections between art and
+					machines, aesthetics and technology, in the twentieth century. The distinction
+					between a machine aesthetic and a more general aestheticizing of technological
+					processes within the celebration of logic and systemality can be elicited from
+					the different premises exemplified by Lazar El Lissitzky, <persName key="Léger, Fernand, 1881-1955." ref="http://viaf.org/viaf/34459370" ana="webannotation:http://temp.lincsproject.ca/RboYofcM9hF">Fernand Léger</persName>, and
+					<persName key="Kandinsky, Wassily, 1866-1944" ref="http://viaf.org/viaf/22143802" ana="webannotation:http://temp.lincsproject.ca/FJsr3AlqTsK">Wassily Kandinsky</persName>.</p>
+				<p>In a 1923 work titled <title>The New Man</title>, El Lissitzky depicts a single
+					figure, sufficiently anthropomorphic to clearly fulfil the expectations of its
+					title, but composed of forms constructed entirely with mechanical drawing
+					instruments. A single circular arc describes the curve of the torso from
+					shoulders through hips. The limbs are stretched outward in the directions of the
+					four axes of an axonometric diagram, their volume thinly designated by minimally
+					described shapes. A hand is described by a thin arc segment of a dark circle,
+					another is merely the terminus of several aligned rectangular strips, the feet
+					created out of short board resambling the base of a lampstand crudely
+					constructed from carpentry remains for purposes of utility. The head, rising
+					above the squared-off geometric of the should ders, is made of two partial
+					circles, overlapped along a central gap between them in which features of a
+					cut-out profile are sharply suggested. There is no simulacral imitation of a
+					machine in this work. Unlike the ironic mechanomorphs produced by Francis
+					Picabia in the same period, with their satiric play on the erotics of machine
+					aesethetics, Lissiztsky's image makes a straightforward claim, placing the
+					constructed aesthetic forward as an unequivocally positive vision.</p>
+				<p>But Lisstizky's image only makes use of mechanical instruments in its
+					construction—it is not itself an image of a machine. The integration of elements
+					in the figure do not articulate as working parts of a guard, motored, or
+					functional apparatus. The image is not of a man-as-machine. Nor is it a
+					simplistic mapping of the features of a machine form onto the figure of a man.
+					The work takes its point of aesthetic departure from a more fundamental
+					interrogation of organic and machine principles as the basis of design. The
+					merging of the two takes the form of a hybrid aesthetic in which the assumption
+					of a shared system underlies both modes of production. <title>The New
+						Man</title> is not a machine, but a systematic production. There is no
+					identifying detail, no sense of a portrait, no Sense of an identity within the
+					image—it is generic, prototypical, and emblematic. It reads as a sign and
+					program, a condensed image signifying a prescriptive rather than descriptive
+					image of a "new man." Like a template or pattern, the geometric forms suggest
+					the possibility of manufacture and production, not depiction, in their spare
+					simplicity.</p> 
+				<p>By contrast the work of Ferdinand Léger, <title>Ballet
+						mécanique</title>, places exaggerated emphasis on reconceiving the human
+					body in terms of a single metaphor of machine imagery. Léger, whose early cubist
+					work of the decide before World War I was largely engaged with the analysis of
+					forms in a reductive geometric, had become infatuated with machines during his
+					war experiences. "I was dazzled by the breech of a seventy-five millimeter gun
+					which was standing uncovered in the sunlight: the magic of light on white
+					metal."(5) Apocryphal though this statement may be, it exemplifies the all too
+					familiar and now much discussed relation between the rationalist aesthetic of
+					certain early avant-garde movements and the militaristic emergence of fascism
+					with its tropes of efficiency. The negative characterization of instrumental
+					rationality articulated by <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/BqJdmGxWRf9">Adorno</persName> attaches with an understandable vehement to
+					the aestheticization process which enables such values.</p>
+				<p>The superficiality of Léger's grasp of machinery is evident in the rapid
+					reproduction of hard-edged, shine, machined forms as the basic building blocks
+					(and surface and treatments) of his work. Even the phrase "machine aesthetic"
+					seems from the outset to be stigmatized by a superficiality and a sense that it
+					is a mere act of appropriation which combines the two in a causal fashion parade
+					of formal novelties decked out for consumption. The "machine aesthetic" can be
+					read as a link between the industrial machinery of overproduction and the need
+					to provide consumption through tempting the appetite of the consumer. Such
+					aestheticization is also a response to the early twentieth-century ennui, a
+					neurasthenic and general cultural malaise in negative response to increased
+					industrialization iconically signed in Charlie Chaplin's <title>Modern
+						Times</title>.(6) Such malaise may not have resulted in a full-blown
+					critically articulated opposition, though sporadic and organized resistances
+					occur throughout the industrialization of nations practically from the moment of
+					the incetition of industrial methods of manufacture.</p> 
+				<p>Lissitzky's work shares an
+					embrace of the rational with that of Léger, but it exemplifies a set of ordering
+					principles rather than merely celebrating industrial production and machinery in
+					its many manifestations. Interest in his concept of systemality is a vision of
+					individual interrogation into a social whole as a positive possibility and the
+					basis of functional collectivity. Thus the conceal parameters of Lissitzky's
+					approach to systematic thought are not burdened by the negative critical
+					characterization which <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/2e0vxcqiyvO">Adorno</persName> will attach to them in the later 1920s and then
+					from that point outward. But the systematic character of Lissitzky's aesthetic
+					is still at a remove from the overarching concept governing the longer
+					historical argu- ment—namely the argument about the relation between
+						<emph>mathesis</emph> and aesthetics. Lissitzky's distinctive approach to
+					design is clearly consistent with a more general agenda of constructivism and,
+					in its grounded relation to instrumental application within a social realm of
+					real production—the basis on which such an aesthetic developed, whatever its
+					roots within more esoterically inclined abstractions — has to be factored into
+					any interpretation of its forms.(7) This is useful since this historical
+					evidence justifies the critical link between aesthetic and social/cultural
+					implications of systemality, but it also distances Lissitzky somewhat from
+					Kandinsky, whose work is a useful third term to introduce into the discussion of
+					rationalized aesthetics in the early twentieth century.</p>
+				<p>Although Kandinsky loads his earlier searches for a systematic "language" of
+					visual symbols to a spiritual agenda redolent with synaestic dimensions, his
+					work in the 1920s establishes certain paradigmatic texts and approaches. <title>Point and Line to Plane</title>, published in 1926, was a
+					crucial articulation of an abstract vocabulary of forms and their relations. The
+					project of this work is to establish terms of certainty, of predictable and
+					guaranteeable formal relations, among visual elements. In short, the promise
+					that such a possibility can be envisioned is itself a product of the more
+					general early twentieth century embrace of a rationalism, and the execution is
+					possible because the general understanding of how such a project could be
+					carried out has natured. Kandinsky's work, naive as it may appear in retrospect,
+					established a precedent which had a developed following in the realm of graphic
+					design. few artists' handbooks of the <title>Point and Line</title> variety have
+					the credibility of Kandinsky's early endeavour, though the writings of Gyorgi
+					Kepes, Johannes Itten, Josef Albers, and others are all continuations of this
+					rational approach to usual experience and representation. Many lesser titles in
+					this vein deteriorated into copy books of simplistic formal solutions or how-to
+					pamphlets without critical or theoretical aspirations. But in the realm of
+					graphic design the lineage is considerable and the idea of graphic systems
+					became a useful instrument in the increasing corporatization of design functions
+					as well as in the later field of information design. The <title>Catalogue Design
+						Progress</title> (1950), Ladislav Sutnar's elaborate catalogue of template
+					for designing legible hierarchies and sequences of display, is an outstanding
+					example of a genre which in- cludes the full range of work from trade handbooks
+					to sophisticated and elegant models.(8)</p>
+				<p>Kandinsky's work provides another key element—the suggestion of a Pythagorean
+					faith in alignment of values of color into form into mathematical number.
+					Kandinsky's faith in the absolute, in "value as an essence feature of form,
+					combines the mystical and mathematical without apparent conflict. The idea of
+					synaesthesia is closer to the idea of the mutability of the digital file than
+					any idea of aesetheties wedded to materially apparent form would be—since there
+					is an implication that the numerical value of a color, a form, or a musical note
+					besides in an essence outside its material. In digital storage, a file has no
+					necessary relation between the form in which it was input (as a text, a sound,
+					an image) and the form of its output. The contrast among the three artists' work
+					allows distinctions to be made clear between image and representation at a
+					conceptual level. The Léger, with its machine motifs, is finally an <emph>image
+						of</emph>, or a <emph>representation of</emph>, superficial and stylistic,
+					whose referent is outside itself no matter how much its own surface and their
+					treatments replicate the modes and manners of industrial production. It poses no
+					critique since its aestheticization serves to reconcile such production with the
+					culture as "natural" --as the leitmotif of the times. Lissitzky's <title>The New
+						Man</title> enacts its aesthetic premises within the image, its premises,
+					and its production. Still celebratory, its own interrogation is complete. The
+					subjugation of natural material of human life and form into the modes of
+					rational production has hybridized the two domains indissolubly. Machinic and
+					systematic conception are one with the an-thropomorphic; criticality has no
+					space in which to enter; the aesthetic naturalizes the activity as an effect.
+					Kandinsky's systematic, mystical equivalences abstract value from form while
+					asserting the absolute capacity of form to embody this value in an immutable and
+					uninflected presencing of truth. Value is form as truth in essence in this
+					equation with its many interchangeable terms. Within the consideration of
+						<emph>mathesis</emph> Léger's work falls away as mere skin, a surface
+					effect, while Lissitzky's work exemplifies a set of structuring principles, and
+					Kandinsky's a revelation mystical faith in number as essence. Kandinsky never
+					suggests a mathematical calculus of form or composition—he merely implies it at
+					every turn within the <title>Improvisations</title> he painted and their
+					musical/mathematical analogies. All three embrace, consciously or not, a
+					positivistic and scientificized attitude toward art production and each
+					participates in the early twentieth-century engagement with systemality in the
+					visual arts. But in the early twentieth century it is clearly not machine
+					aesthetics which is the most complete expression of rationalism; rather it is
+					the fundamental attempt at grounding art in a basis which approaches science,
+					mimicking its capacity for logical certainties, which are the goal of this
+					positivist imperative.</p>
+				<p>Midcentury developments in the dialogue of positivism and art are as varied as
+					those of the earlier decades and are tempered considerably by the post-world War
+					II reflections on the destructive character of technorationality. Information
+					science, which flourished within the administrative and military industries of
+					the war years, expended out of the instructed domain of esoteric application
+					extending the ever broadening reach which would, ultimately, push it toward its
+					late twentieth-century penetration of every aspect of contemporary culture. The
+					rational surface of modernist grids, replayed in the minimalist canvas and
+					structures of system-generated art, give ample evidence of the persistence and
+					aesthetic po- tency of this aesthetic. Sol Lewitt's famous dictum, "an idea is a
+					machine that makes art," sutures the machinic and rational within his
+					aesthetic—no matter how qualified each of these terms must be in actually
+					assessing his projects.</p>
+				<p>Computers began to find their way into art projects in the 1950s and 1960s,
+					usually in elaborately conceived works whose conceptual parameters required a
+					considerable amount of input for a relatively piddling material output. The
+					burden of production was such that this work has a high efficient of
+					conceptualization in proportion to the quality of final product. But such work
+					established the basic paradigm distinguishing input from output, idea
+					(algorithm, program) and material (printout, template, form) in a highly
+					mediated manner—so that the "stuff" of a piece is data to be manipulated through
+					process. fundamental to conceptual art as well as computer-generated work, this
+					paradigm signals a radical break within the aesthetic underpinning of the fine
+					arts since it renders overt the terms on which idea and material are
+					distinguished—or cease to be distinguishable, depending on the extent to which
+					the very identity of a work of digital art is posited within its digital
+					file.</p>
+				<p>There are many works within conceptual art narrowly defined (and within the
+					reconceptualization of art broadly understood) which take the paradigmatic
+					premises of this distinction between idea-as program and
+					form-as-mere-incident-of-output as their basis from the 1960s outward. There is
+					a corollary to be drawn between the classical sense of "essence" and "accident"
+					here—in which the digital file has an immutable identity and the individual
+					outputs it can be used to generate are each mere and unique but ever so slightly
+					debased and individualed instances of that original. The question is whether the
+					"essence" of the digital work is in fact its file, encoded and encrypted and
+					clearly mathematical, or whether the digital work resides in a fulfilled
+					expression of that file into a material form depends on the conceptual
+					parameters of the piece.</p>
+				<p>Here it seems useful to come back to a framework provided by <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/rXOh44FLEpT">Adorno</persName> in the
+					following phrase: "The Same, which the artworks mean as their what, becomes
+					through how they mean it, an Other."(9) <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/HKNnDER47Vl">Adorno</persName>'s aesthetic agenda depends on a
+					separation between subject and object, on a persistent and irremediable
+					difference at all levels of artistic production, which allows criticality to
+					function. This "difference" takes the form of keeping idea separate from
+					material— the "same" which is idea or content or thematic problem is made into
+					an "other" through the extrusion into and embodiment in a materiality. The
+					inability of these two to be identical can be maximized in works which promote a
+					dissonant, nonunified, nonunifiable condition in their formal realization. Such
+					work, by its own form and by its discuptive place in the cultural landscape of
+					otherwise too-easily consumable objects, serves to keep the critical function
+					alive. Dissonance without obscure, difficulty without reconciliation
+					("determinate irreconcilability")—these functions keep the rational from
+					dominating the material, keep reason from turning nature into its perfect image
+					as some mere imitative form. Two examples of digital production provide
+					contrasting problems in extending <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/dVCkhJoZqkH">Adorno</persName>'s promise into an analysis of the
+					digital work: <title>Evolution of Form</title> (1990) of William
+					Latham and the virus works of Joseph Nechvatel. Latham's work consists of
+					algorithmically generated forms. They grow, mutate, and adapt within the
+					parameters of an also mutating program. Its operation translates the problems of
+					evolution into a reworked solution at the level of the program—the forms evolve
+					according to the various solutions. The images are organic in appearance—tiny
+					units of pale fleshy tissue emerging like some kind of mutant growth. They look
+					more like trains, ovaries, or international organs than like self-sufficient
+					organisms—clusters of cells organizing in order to perform a specialized rather
+					than autonomous function. As forms, their identity is entirely linked to—is
+					even, on some conceptual level isomorophic to—the films generated through the
+					mathematical operation of the algorithms evolving and acting on each other. As
+					an image of the process of form-giving, the work raises questions about whether
+					the file is one with the image or distinct from it. The image cannot exist
+					without the file—except in secondary format as photograph, printout, or other
+					hard copy manifestation. But that level of existence is as secondary as a
+					photographic reproduction of the <title>Mona Lisa</title>. As an original, the
+						<title>Mona Lisa</title> is not linked to a file as its essence: it is its
+					own essence and has its own ontological integrity—it <emph>is</emph> in every
+					sense in its material manifestation. But are the "how" and the "what" of
+					Latham's work distinct entities—or even distinct components within the original
+					image-generating-file and file-linked-image? Is it even correct to name these as
+					two different elements? Or are they merely two aspects of a single entity? And
+					whether they are a single entity or not, they share a common promise—that the
+					fundamental ontological condition of the image is as a mathematical entity. This
+					entity is utterly consistent with the notion of a logical proposition, one which
+					is able to be absorbed into the language of certainty and guaranteeability
+					essential to logic. There is a lurking sense that the absolute truth reside in
+					this file, in the digital code.</p>
+				<p>Nechvatel's virus-affected image films offer an interesting contrast. Nechvatel
+					creates image files—graphic, fixel-based images created through scanning,
+					through the upload of visual data into a pixel tapestry. Such images are not
+					algorithmic in their form or creation— they are stored as encoded descriptions
+					of a surface or area of display. There is integrity to the relation between
+					image and file, but only descriptively, not prescriptively. The graphic quality
+					of such images means that they carry more data than can be described by
+					mathematical formulas for their forms and shapes—merely carrying it as
+					incidental information which has been inscribed into code storage (in the same
+					way that a photographic surface carries much more information than can be
+					described in a linguistic or algorithmic prescription for its forms). This
+					stored file is then subjected to a virus which Nechvatel introduces
+					electronically, getting it to "work" on the image file. Nothing happens on the
+					display screen while this occurs. The virus works its way through the data
+					files, damage them, reconfiguring the fixel tapastery. When the process is
+					complete, the new tapestry is displayed. But is the relation of the new display
+					to its data file the same as the original? Yes and no—yes because both are
+					"mapped" as display, merely in a descriptive sense, but no because the second
+					image / display also contains the visual signs of the algorithmic, programmed,
+					vital damage. The image is not merely one with the generative file: it is one
+					with an incidental stored file and a secondary process which has resulted in an
+					altered file. The ontological condition of the altered file isn't the same as in
+					the case of Latham—where the image and file evolve simultaneously. In
+					Nechvatel's case the display is after the process, and is a record of it, and
+					suggests a potential recuperation of that transformation process in the altered
+					form of the display. The Nechvatel image does not have the same unity as the
+					Latham—it may have the same relation of identity between final, extant file and
+					display, but it is not unified in the originary sense which the Latham file is.
+					All digital films have this unity of file and display, but within the record of
+					their production processes there are varying potentialities for distinguishing
+					critical distinction. The idea of Nechvatel's virus works on the material of the
+					digital file—and in that gap the critical enters and produces a dissonant
+					fracturing. Nechvatel's image contains a critical opposition to itself, as part
+					of itself, a split identity in its apparent unity, This is because Nechvatel's
+					graphic file preexists the mathematical operation—thus allowing the "stuff" of a
+					material image to enter into a relation with the immaterial action of a
+					mathematical operation. Nechvatel's is not a hermetic universe, singular and
+					closed, in its relations of ontological essence and manifestation.</p>
+				<p>The virtual is not the absolute—not some based condition of unity in which there
+					is no concevable critical distance. But the virtual can enact a new condition of
+					unity which precludes, by simulacral effect, by a confusion of image and the
+					impossibility of difference within it, any substance difference between concept
+					and matter, idea and form. If the absolute is the condition of giving up of the
+					distinction, difference between subject and object, image and thing,
+					representation and referent—then the virtual is rather a forced admission that
+					there never was a difference except in theory. The virtual does not represent,
+					and also <emph>is</emph> not, an achievement of unity after a struggle. 
+				This seems to be the case with Latham's <title>Form</title>.</p> <p>The positivist
+					underpinning of artistic scientificization gains considerable justification in
+					the digital-where the "materiality" of art production is inscribed and contained
+					entirely within the mathematical equivalentes of electronically stored films.
+					The question is whether the digital image is completely self-identical,
+					hopelessly constrained within the terms of a unity of idea and form at the level
+					of trace inscription in binary code, or whether the gap which separates file
+					from each and every instance of manifestation in material output (display on the
+					screen, print, pattern, template) makes the separation of concept and execution
+					greater than ever before. One can take the position that the file is the work in
+					the most absolute ontological sense of its being the essence of the work at a
+					level of descriptive code which replicates without variation outside of
+					temporal/historical/subjective influences. Or one can take the opposite
+					position, that the code is utterly ephemeral, only an effect of highly mutable,
+					subject-to-fastion-whim and direction of the origoing industry changes, and that
+					the relation between "idea" as code and "form" as object/material manifestation
+					has never been more clearly marked than it is in the discrete boundaries of file
+					and form, encoded information and material manifestation.</p>
+				<p>Does <emph>mathesis</emph> have its triumph within the realm of the digital?
+					Within digital is there a gap preserved or a gap closed as if it had never been
+					open between "natural" and "computational, the serendipitious and the
+					systematic, the organic/replete and the synthetic/ constructed? If
+						<emph>mathesis</emph> describes the ideality of form—that is, form which is
+					apparent to consciousness without any need to be manifest in material—then the
+					digital condition of code storage fits that description as well. But digital
+					imagery is also the curious Madrid of materially inscribed form (massively
+					dependent on the apparatus of production, the computer, terminal, magnetic
+					storage devices, discs, and drives) and immaterially apparent form whose two
+					aspects are inseparable from each other. The coming-form which involves a
+					splitting off from idea into matter is circumscribed within a single operation
+					in the digital environment in a work like Latham's—but not so clearly in the
+					case of Nechvatel. Each poses a different problem with respect to the
+					self-identity of digital images and the dialectics essential to critical
+					intervention. To frame it another way, in a paraphrase of the <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/Tt9KF3Ambn7">Adorno</persName> quote
+					above, in certain instances the how of the digital environment can be precisely
+					the same as the what. The means and matter of expression of form/content,
+					idea/expression, essence/accident can become indissolubly unified in the
+					Mathetic condition of digital storage, thus questioning the possible basis on
+					which aesthetic opposition can even be premised, let alone sustained. </p>
+			</div>
+		</body>
+		<back>
+
+			<head>Notes</head>
+			<listBibl>
+				<bibl>1. <persName key="Brunkhorst, Hauke." ref="http://viaf.org/viaf/265081972" ana="webannotation:http://temp.lincsproject.ca/BndPRh9Io1P">Hauke Brunkhorst</persName>, "Irreconcilable Modernity: Adorno's Aesthetic
+					Experimentalism and the Transgression Theorem," in Max Pensky, ed., The
+					Actuality of Adorno (Albany: State University of New York Press, 1997).</bibl>
+				<bibl>2. The work of Mark Pauline and the Survivor Research Lab, performance and
+					robotic artist Stelarc, video artist Alan Rath, sculptor Janet Zweig, and the
+					collaborationtive work of Heather Schatz and Eric Chan, to name a
+					handful.</bibl>
+				<bibl>3. See Peter Osborne, "Adorno and the Metaphysics of Modernism: The Problem of
+					a ‘Postmodern' Art" and Peter Dews, "Adorno, Poststructuralism, and the Critique
+					of Identity," both in Andrew Benjamin, ed., The Problems of Modernity: Adorno
+					and Benjamin (New York: Routledge, 1989).</bibl>
+				<bibl>4. Brunkhorst, "Irreconcilable Modernity," 52.</bibl>
+				<bibl>5. <persName key="Kozloff, Max" ref="http://viaf.org/viaf/96424582" ana="webannotation:http://temp.lincsproject.ca/JBxy176nNGz">Max Kozloff</persName>, Cubism/Futurism (New York: Harper Iron, 1973), 40.</bibl>
+				<bibl>6. Stephen Kern, The Culture of Time and Space (Cambridge: Harvard University
+					Press, 1983).</bibl>
+				<bibl>7. Stephan Bann, ed., The Tradition of Construction (New York: Da Capo,
+					1974).</bibl>
+				<bibl>8. Richard Hollis, Graphic Design: A Concise History (London: </bibl></listBibl></back></text>
+	<standOff type="annotation">
+		<xenoData>
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/naJ1mS9rVUm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/naJ1mS9rVUm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:42:31.640Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/CJEFrLfqpYh",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CJEFrLfqpYh/selector/textPosition/2zhzojJGmB9",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 81,
+                "end": 96,
+                "refinedBy": {
+                    "id": "/target/CJEFrLfqpYh/selector/textQuote/EJzqaerpm96",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Johanna Drucker",
+                    "prefix": "\n\t\t\n\t\t\t\n\t\t\t\t\n\n\t\t\t\tDigital Hybridity and the Question of Aesthetic Opposition\n\t\t\t",
+                    "suffix": "University of Virginia\n\t\t\t\tIs there a fanatical inevitably in the capacity of electronic media to absorb all\n\t\t\t\t\tforms of human expression and experience into data formats? In his discussions\n\t\t\t\t\tof aesthetics and ideology, Theodor Adorno continually reiterated the caveat\n\t\t\t\t\tthat when positivist logic invades culture to an extreme then representation\n\t\t\t\t\tappears to present a \"unitary\" truth in a totalizing model of thought which\n\t\t\t\t\tleaves little room for critical action or agency"
+                }
+            },
+            {
+                "id": "/target/CJEFrLfqpYh/selector/css/dksnPUPKDcP",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/naJ1mS9rVUm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/71503942",
+        "type": "crm:E21_Person",
+        "label": "Drucker, Johanna, 1952-....",
+        "description": "Drucker, Johanna"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KHBjmkTuXJK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KHBjmkTuXJK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:42:46.217Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/BYHhwCbgw5s",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BYHhwCbgw5s/selector/textPosition/cig5YdVCz6P",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 323,
+                "end": 337,
+                "refinedBy": {
+                    "id": "/target/BYHhwCbgw5s/selector/textQuote/NdeeqEnoa9p",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Theodor Adorno",
+                    "prefix": "\n\t\t\n\t\t\t\n\t\t\t\t\n\n\t\t\t\tDigital Hybridity and the Question of Aesthetic Opposition\n\t\t\t\tJohanna Drucker University of Virginia\n\t\t\t\tIs there a fanatical inevitably in the capacity of electronic media to absorb all\n\t\t\t\t\tforms of human expression and experience into data formats? In his discussions\n\t\t\t\t\tof aesthetics and ideology,",
+                    "suffix": "continually reiterated the caveat\n\t\t\t\t\tthat when positivist logic invades culture to an extreme then representation\n\t\t\t\t\tappears to present a \"unitary\" truth in a totalizing model of thought which\n\t\t\t\t\tleaves little room for critical action or agency"
+                }
+            },
+            {
+                "id": "/target/BYHhwCbgw5s/selector/css/X80FwYdnhYg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KHBjmkTuXJK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NWp1Sl4PjOD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/NWp1Sl4PjOD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:10.952Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/FYNyDF4yVzD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FYNyDF4yVzD/selector/textPosition/JRvtSDznAVj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1382,
+                "end": 1388,
+                "refinedBy": {
+                    "id": "/target/FYNyDF4yVzD/selector/textQuote/5aqfRzy2Jkz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " As the popular idea of technological \"truth\" continues to function\n\t\t\t\t\tas an instrumental force in the in- creasing rationalization of culture, artwork\n\t\t\t\t\twhich renders such \"truths\" assimilable, performing in what",
+                    "suffix": "would term a\n\t\t\t\t\treconciliatory manner"
+                }
+            },
+            {
+                "id": "/target/FYNyDF4yVzD/selector/css/uyP8UMeWAws",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NWp1Sl4PjOD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0WQZqaK9TNe">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0WQZqaK9TNe",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:11.055Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/CyDEYHN6ZFx",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CyDEYHN6ZFx/selector/textPosition/xWJXhmcTpvS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4056,
+                "end": 4062,
+                "refinedBy": {
+                    "id": "/target/CyDEYHN6ZFx/selector/textQuote/J0k3SB6uGXA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " Here these questions will be pose in terms of the work of",
+                    "suffix": "s\n\t\t\t\t\tconception of aesthetics as potentially resistant (no longer liberatory, given\n\t\t\t\t\this profound pessimism) At midcentury, Adorno struggle to articulate the\n\t\t\t\t\tcapacity of aesthetics to resist the forces and tropes of instrumental reason\n\t\t\t\t\tinforming an increasingly commodified consumer society"
+                }
+            },
+            {
+                "id": "/target/CyDEYHN6ZFx/selector/css/mM7isZr83ub",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0WQZqaK9TNe]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2qRlTLE8pUQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2qRlTLE8pUQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:11.169Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/5ClEuKc10W8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5ClEuKc10W8/selector/textPosition/MQMClalpt5l",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4193,
+                "end": 4199,
+                "refinedBy": {
+                    "id": "/target/5ClEuKc10W8/selector/textQuote/RwH6IPAgOBF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " Here these questions will be pose in terms of the work of Adorno's\n\t\t\t\t\tconception of aesthetics as potentially resistant (no longer liberatory, given\n\t\t\t\t\this profound pessimism) At midcentury,",
+                    "suffix": "struggle to articulate the\n\t\t\t\t\tcapacity of aesthetics to resist the forces and tropes of instrumental reason\n\t\t\t\t\tinforming an increasingly commodified consumer society"
+                }
+            },
+            {
+                "id": "/target/5ClEuKc10W8/selector/css/UQfqMW2IJU2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2qRlTLE8pUQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Ca3a66QmSX6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Ca3a66QmSX6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:11.256Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/do4vLXrlrL2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/do4vLXrlrL2/selector/textPosition/QfXSNheyFxG",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4794,
+                "end": 4800,
+                "refinedBy": {
+                    "id": "/target/do4vLXrlrL2/selector/textQuote/JH4dSRorVud",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": "",
+                    "suffix": "\t\t\t\t\tplaced considerable weight on formal strategies of artistic production as a\n\t\t\t\t\tmeans to achieve this goal"
+                }
+            },
+            {
+                "id": "/target/do4vLXrlrL2/selector/css/tRvAeJXwH3p",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Ca3a66QmSX6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IVVfDqsCuY9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IVVfDqsCuY9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:11.344Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/a9zsQnA5tRb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/a9zsQnA5tRb/selector/textPosition/mbwfq4k5qI4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5373,
+                "end": 5379,
+                "refinedBy": {
+                    "id": "/target/a9zsQnA5tRb/selector/textQuote/P9m835n0z37",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": "(3) Are these concepts\n\t\t\t\t\tsustainable within the context of the digital production of works of art? Or\n\t\t\t\t\tdoes the qualified absence of materiality of the digital environment\n\t\t\t\t\tfundamentally alter the way an artwork's identity and self-identity can be\n\t\t\t\t\tconceived within the dialectic of subject/object relations which",
+                    "suffix": "derived\n\t\t\t\t\tfrom Hegel's aesthetics?\n\t\t\t\tA secondary aspect of this discussion is the relation of twentieth-century art to\n\t\t\t\t\tpositivistic logic and its embodiment of an Enlightenment ideal of reason"
+                }
+            },
+            {
+                "id": "/target/a9zsQnA5tRb/selector/css/EuJWxh0gNSb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IVVfDqsCuY9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lkmq0y9HsWj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lkmq0y9HsWj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:11.471Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/MzjpcOZNwvX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/MzjpcOZNwvX/selector/textPosition/OQyRudN1HVO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6336,
+                "end": 6342,
+                "refinedBy": {
+                    "id": "/target/MzjpcOZNwvX/selector/textQuote/IEnrtTbmPHE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": "\n\t\t\t\tLeibniz's dream is",
+                    "suffix": "s nightmare—and Adorno and Max Horkheimer were quite\n\t\t\t\t\tclear on this point in Dialectics of Enlightenment, when they\n\t\t\t\t\tsuggested that Kant's aesthetics of purposelessness is a necessary (the only)\n\t\t\t\t\tantidote and means of resistance to the domination by all sections of society\n\t\t\t\t\tand culture by the enslaving"
+                }
+            },
+            {
+                "id": "/target/MzjpcOZNwvX/selector/css/OxQQ2lp1ewP",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lkmq0y9HsWj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/25AWF67osEe">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/25AWF67osEe",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:11.553Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/PQB61PFORh8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PQB61PFORh8/selector/textPosition/1wQ5DHiQ8Rq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6359,
+                "end": 6365,
+                "refinedBy": {
+                    "id": "/target/PQB61PFORh8/selector/textQuote/CUMzCrv8WMF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": "\n\t\t\t\tLeibniz's dream is Adorno's nightmare—and",
+                    "suffix": "and Max Horkheimer were quite\n\t\t\t\t\tclear on this point in Dialectics of Enlightenment, when they\n\t\t\t\t\tsuggested that Kant's aesthetics of purposelessness is a necessary (the only)\n\t\t\t\t\tantidote and means of resistance to the domination by all sections of society\n\t\t\t\t\tand culture by the enslaving"
+                }
+            },
+            {
+                "id": "/target/PQB61PFORh8/selector/css/v7q94PdFzxF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/25AWF67osEe]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sxfjWSVt9mi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sxfjWSVt9mi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:11.640Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/tSaQmLsDpdD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tSaQmLsDpdD/selector/textPosition/xiFJK0K98h5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6918,
+                "end": 6924,
+                "refinedBy": {
+                    "id": "/target/tSaQmLsDpdD/selector/textQuote/B3BSunHt2FO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " In citing the ways such a technorationality infused itself\n\t\t\t\t\tinto cultural practice, Horkheimer and",
+                    "suffix": "take issue with the ways the\n\t\t\t\t\tperceptions of representation are themselves subjected to such a positivist\n\t\t\t\t\tlogic"
+                }
+            },
+            {
+                "id": "/target/tSaQmLsDpdD/selector/css/lFvYs8nTkzd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sxfjWSVt9mi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LiouEb2abmQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LiouEb2abmQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:12.015Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/q8xEOEwYWnf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/q8xEOEwYWnf/selector/textPosition/J3AjKn5iU1G",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7075,
+                "end": 7081,
+                "refinedBy": {
+                    "id": "/target/q8xEOEwYWnf/selector/textQuote/RHyhHeKH09q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " This occurs, Horkheimer and",
+                    "suffix": "suggest, in the approach to\n\t\t\t\t\tlanguage/image in which a literalist, positivist interpretation forces\n\t\t\t\t\trepresentation into a collusion/elision with the \"real\" so that one takes the\n\t\t\t\t\t\"word for the thing\"—the \"image for the real\"—the \"representation for the\n\t\t\t\t\treferent\" in every instance"
+                }
+            },
+            {
+                "id": "/target/q8xEOEwYWnf/selector/css/OOETxKw1poY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LiouEb2abmQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UIErd1vzknw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UIErd1vzknw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:12.015Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/UgfBxjNYhSw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UgfBxjNYhSw/selector/textPosition/bsJVM6qYoiu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7679,
+                "end": 7685,
+                "refinedBy": {
+                    "id": "/target/UgfBxjNYhSw/selector/textQuote/0p8v9QW7sw8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " The distance between Leibniz and",
+                    "suffix": "\t\t\t\t\tcoincides with the temporal span which encompasses cultural modernity"
+                }
+            },
+            {
+                "id": "/target/UgfBxjNYhSw/selector/css/FP0fTqi8X3v",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UIErd1vzknw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8xw6frDidw4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8xw6frDidw4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:12.015Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/zumEggn0WsU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zumEggn0WsU/selector/textPosition/l4i5uElCsQU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7893,
+                "end": 7899,
+                "refinedBy": {
+                    "id": "/target/zumEggn0WsU/selector/textQuote/udHVzh4IIbl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " What was\n\t\t\t\t\tfor Leibniz the glimpsed possibility of total, all-encompassing, descriptive and\n\t\t\t\t\tanalytic reason has become for",
+                    "suffix": "(and Horkheimer and others) the\n\t\t\t\t\tnightmarish image of totalizing control effected by instrumental\n\t\t\t\t\trationality"
+                }
+            },
+            {
+                "id": "/target/zumEggn0WsU/selector/css/B5e44i07TbN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8xw6frDidw4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BqJdmGxWRf9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BqJdmGxWRf9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:12.016Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/tuuxZVn4wCU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tuuxZVn4wCU/selector/textPosition/fOAusPDDqxh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16253,
+                "end": 16259,
+                "refinedBy": {
+                    "id": "/target/tuuxZVn4wCU/selector/textQuote/70ud4JQooOk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " The negative characterization of instrumental\n\t\t\t\t\trationality articulated by",
+                    "suffix": "attaches with an understandable vehement to\n\t\t\t\t\tthe aestheticization process which enables such values"
+                }
+            },
+            {
+                "id": "/target/tuuxZVn4wCU/selector/css/rWtmn4Smz2D",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BqJdmGxWRf9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2e0vxcqiyvO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2e0vxcqiyvO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:12.016Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/rxdYYP5JiJl",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rxdYYP5JiJl/selector/textPosition/V4BFlntX2Wm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18112,
+                "end": 18118,
+                "refinedBy": {
+                    "id": "/target/rxdYYP5JiJl/selector/textQuote/OP7CWOrLg24",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " Thus the conceal parameters of Lissitzky's\n\t\t\t\t\tapproach to systematic thought are not burdened by the negative critical\n\t\t\t\t\tcharacterization which",
+                    "suffix": "will attach to them in the later 1920s and then\n\t\t\t\t\tfrom that point outward"
+                }
+            },
+            {
+                "id": "/target/rxdYYP5JiJl/selector/css/zMBMpscAcBA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2e0vxcqiyvO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rXOh44FLEpT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rXOh44FLEpT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:12.016Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/RKgeEbIpbqW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RKgeEbIpbqW/selector/textPosition/4sKLohFIdFq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27375,
+                "end": 27381,
+                "refinedBy": {
+                    "id": "/target/RKgeEbIpbqW/selector/textQuote/DSAE6DIxpAE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": "\n\t\t\t\tHere it seems useful to come back to a framework provided by",
+                    "suffix": "in the\n\t\t\t\t\tfollowing phrase: \"The Same, which the artworks mean as their what, becomes\n\t\t\t\t\tthrough how they mean it, an Other"
+                }
+            },
+            {
+                "id": "/target/RKgeEbIpbqW/selector/css/99aaSu98XwB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rXOh44FLEpT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HKNnDER47Vl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HKNnDER47Vl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:12.016Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/XMnlqt9pw68",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/XMnlqt9pw68/selector/textPosition/HILr4vrBWy1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27515,
+                "end": 27521,
+                "refinedBy": {
+                    "id": "/target/XMnlqt9pw68/selector/textQuote/gDdfyK8dp4U",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": "\"(9)",
+                    "suffix": "s aesthetic agenda depends on a\n\t\t\t\t\tseparation between subject and object, on a persistent and irremediable\n\t\t\t\t\tdifference at all levels of artistic production, which allows criticality to\n\t\t\t\t\tfunction"
+                }
+            },
+            {
+                "id": "/target/XMnlqt9pw68/selector/css/8sli7eUYhO5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HKNnDER47Vl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dVCkhJoZqkH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dVCkhJoZqkH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:12.016Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/I3NM8xMONiD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/I3NM8xMONiD/selector/textPosition/unbXi5JOtCy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28646,
+                "end": 28652,
+                "refinedBy": {
+                    "id": "/target/I3NM8xMONiD/selector/textQuote/3sh3klSfjAG",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " Two examples of digital production provide\n\t\t\t\t\tcontrasting problems in extending",
+                    "suffix": "s promise into an analysis of the\n\t\t\t\t\tdigital work: Evolution of Form (1990) of William\n\t\t\t\t\tLatham and the virus works of Joseph Nechvatel"
+                }
+            },
+            {
+                "id": "/target/I3NM8xMONiD/selector/css/F2Jy5QgFjXw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dVCkhJoZqkH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Tt9KF3Ambn7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Tt9KF3Ambn7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:12.016Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/ldzbfWYSarA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ldzbfWYSarA/selector/textPosition/240SqqXIfMG",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37517,
+                "end": 37523,
+                "refinedBy": {
+                    "id": "/target/ldzbfWYSarA/selector/textQuote/U2N4VmU0NAj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Adorno",
+                    "prefix": " To frame it another way, in a paraphrase of the",
+                    "suffix": "quote\n\t\t\t\t\tabove, in certain instances the how of the digital environment can be precisely\n\t\t\t\t\tthe same as the what"
+                }
+            },
+            {
+                "id": "/target/ldzbfWYSarA/selector/css/MtgFBtc9EIU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Tt9KF3Ambn7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/95247377",
+        "type": "crm:E21_Person",
+        "label": "Adorno, Theodor W., 1903-1969.",
+        "description": "Adorno, Theodor W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/T0tiI6fHvuW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/T0tiI6fHvuW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:31.754Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/1MrkcT47ibw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/1MrkcT47ibw/selector/textPosition/ragl6tBUnBq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5398,
+                "end": 5403,
+                "refinedBy": {
+                    "id": "/target/1MrkcT47ibw/selector/textQuote/lBOl9359Ftn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hegel",
+                    "prefix": "(3) Are these concepts\n\t\t\t\t\tsustainable within the context of the digital production of works of art? Or\n\t\t\t\t\tdoes the qualified absence of materiality of the digital environment\n\t\t\t\t\tfundamentally alter the way an artwork's identity and self-identity can be\n\t\t\t\t\tconceived within the dialectic of subject/object relations which Adorno derived\n\t\t\t\t\tfrom",
+                    "suffix": "s aesthetics?\n\t\t\t\tA secondary aspect of this discussion is the relation of twentieth-century art to\n\t\t\t\t\tpositivistic logic and its embodiment of an Enlightenment ideal of reason"
+                }
+            },
+            {
+                "id": "/target/1MrkcT47ibw/selector/css/gp4iutXYLDO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/T0tiI6fHvuW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/89774942",
+        "type": "crm:E21_Person",
+        "label": "Hegel, Georg Wilhelm Friedrich, 1770-1831.",
+        "description": "Hegel, Georg Wilhelm Friedrich, 1770-1831, philosophe"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/e43LM9XWag5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/e43LM9XWag5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:44:51.720Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/xzwxPpoD7g3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/xzwxPpoD7g3/selector/textPosition/7vBdkpdUHne",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6370,
+                "end": 6384,
+                "refinedBy": {
+                    "id": "/target/xzwxPpoD7g3/selector/textQuote/5Bw5HKaN23K",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Max Horkheimer",
+                    "prefix": "\n\t\t\t\tLeibniz's dream is Adorno's nightmare—and Adorno and",
+                    "suffix": "were quite\n\t\t\t\t\tclear on this point in Dialectics of Enlightenment, when they\n\t\t\t\t\tsuggested that Kant's aesthetics of purposelessness is a necessary (the only)\n\t\t\t\t\tantidote and means of resistance to the domination by all sections of society\n\t\t\t\t\tand culture by the enslaving"
+                }
+            },
+            {
+                "id": "/target/xzwxPpoD7g3/selector/css/obZznl1usoH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/e43LM9XWag5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/14771315",
+        "type": "crm:E21_Person",
+        "label": "Horkheimer, Max, 1895-1973.",
+        "description": "Horkheimer, Max"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dJzHBs16ZkG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dJzHBs16ZkG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:46:18.291Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/b09lQlpZGlL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/b09lQlpZGlL/selector/textPosition/ApaKNaQ76gL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6483,
+                "end": 6487,
+                "refinedBy": {
+                    "id": "/target/b09lQlpZGlL/selector/textQuote/pON8NoKENmR",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Kant",
+                    "prefix": "\n\t\t\t\tLeibniz's dream is Adorno's nightmare—and Adorno and Max Horkheimer were quite\n\t\t\t\t\tclear on this point in Dialectics of Enlightenment, when they\n\t\t\t\t\tsuggested that",
+                    "suffix": "s aesthetics of purposelessness is a necessary (the only)\n\t\t\t\t\tantidote and means of resistance to the domination by all sections of society\n\t\t\t\t\tand culture by the enslaving"
+                }
+            },
+            {
+                "id": "/target/b09lQlpZGlL/selector/css/8u9tI8W4IQu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dJzHBs16ZkG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/82088490",
+        "type": "crm:E21_Person",
+        "label": "Kant, Immanuel, 1724-1804.",
+        "description": "Kant, Immanuel"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Kqtgm5E218Y">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Kqtgm5E218Y",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:45:14.655Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/YftLQKPkGdl",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/YftLQKPkGdl/selector/textPosition/aQfgXpTho6B",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6903,
+                "end": 6913,
+                "refinedBy": {
+                    "id": "/target/YftLQKPkGdl/selector/textQuote/JGd3sALa7Aa",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Horkheimer",
+                    "prefix": " In citing the ways such a technorationality infused itself\n\t\t\t\t\tinto cultural practice,",
+                    "suffix": "and Adorno take issue with the ways the\n\t\t\t\t\tperceptions of representation are themselves subjected to such a positivist\n\t\t\t\t\tlogic"
+                }
+            },
+            {
+                "id": "/target/YftLQKPkGdl/selector/css/6XVIvt5v40i",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Kqtgm5E218Y]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/14771315",
+        "type": "crm:E21_Person",
+        "label": "Horkheimer, Max, 1895-1973.",
+        "description": "Horkheimer, Max"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yaHtRo7ML4D">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yaHtRo7ML4D",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:45:14.735Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/B5vBPe6ODUf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/B5vBPe6ODUf/selector/textPosition/L3aSefbzoW6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7060,
+                "end": 7070,
+                "refinedBy": {
+                    "id": "/target/B5vBPe6ODUf/selector/textQuote/C9ZYjORwxa0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Horkheimer",
+                    "prefix": " This occurs,",
+                    "suffix": "and Adorno suggest, in the approach to\n\t\t\t\t\tlanguage/image in which a literalist, positivist interpretation forces\n\t\t\t\t\trepresentation into a collusion/elision with the \"real\" so that one takes the\n\t\t\t\t\t\"word for the thing\"—the \"image for the real\"—the \"representation for the\n\t\t\t\t\treferent\" in every instance"
+                }
+            },
+            {
+                "id": "/target/B5vBPe6ODUf/selector/css/qUPgt9PYY9B",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yaHtRo7ML4D]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/14771315",
+        "type": "crm:E21_Person",
+        "label": "Horkheimer, Max, 1895-1973.",
+        "description": "Horkheimer, Max"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/H0W2wjFxFra">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/H0W2wjFxFra",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:45:14.805Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/E7WtlGrHV80",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/E7WtlGrHV80/selector/textPosition/BbJkrwMYp7N",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7905,
+                "end": 7915,
+                "refinedBy": {
+                    "id": "/target/E7WtlGrHV80/selector/textQuote/nc6MniPulsQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Horkheimer",
+                    "prefix": " What was\n\t\t\t\t\tfor Leibniz the glimpsed possibility of total, all-encompassing, descriptive and\n\t\t\t\t\tanalytic reason has become for Adorno (and",
+                    "suffix": "and others) the\n\t\t\t\t\tnightmarish image of totalizing control effected by instrumental\n\t\t\t\t\trationality"
+                }
+            },
+            {
+                "id": "/target/E7WtlGrHV80/selector/css/O0xT26VM1qx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/H0W2wjFxFra]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/14771315",
+        "type": "crm:E21_Person",
+        "label": "Horkheimer, Max, 1895-1973.",
+        "description": "Horkheimer, Max"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Cfsr5GPKjdn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Cfsr5GPKjdn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:tagging",
+    "created": "2025-07-31T14:46:41.740Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/S63FYHcQzZZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/S63FYHcQzZZ/selector/textPosition/jmTeynA1DRT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9988,
+                "end": 9992,
+                "refinedBy": {
+                    "id": "/target/S63FYHcQzZZ/selector/textQuote/NhfRv7H1nbE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dada",
+                    "prefix": " The ironic counterpart in\n\t\t\t\t\tthe work of",
+                    "suffix": "poets and painters, conspicuously nuanced in the oeuvre of\n\t\t\t\t\tMarcel Duchamp, is an understandable contemporary counterpoint response"
+                }
+            },
+            {
+                "id": "/target/S63FYHcQzZZ/selector/css/PdbPl50y5RY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Cfsr5GPKjdn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q6034",
+        "type": "crm:E28_Conceptual_Object",
+        "label": "Dada",
+        "description": "avant-garde art movement in the early 20th century"
+    },
+    "P2_has_type": [
+        "oa:tagging"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kpu8qIbpjd8">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kpu8qIbpjd8",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:47:03.182Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/LrenYlYUMVt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LrenYlYUMVt/selector/textPosition/jlUpUR68pS9",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10057,
+                "end": 10071,
+                "refinedBy": {
+                    "id": "/target/LrenYlYUMVt/selector/textQuote/XeTL8wZG35j",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Marcel Duchamp",
+                    "prefix": " The ironic counterpart in\n\t\t\t\t\tthe work of Dada poets and painters, conspicuously nuanced in the oeuvre of\n\t\t\t\t",
+                    "suffix": " is an understandable contemporary counterpoint response"
+                }
+            },
+            {
+                "id": "/target/LrenYlYUMVt/selector/css/TEpbRagQE0K",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kpu8qIbpjd8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/36917441",
+        "type": "crm:E21_Person",
+        "label": "Duchamp, Marcel, 1887-1968",
+        "description": "Marcel Duchamp"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/I4utIZRaelr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/I4utIZRaelr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:47:34.314Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/BzeVpnycmXT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BzeVpnycmXT/selector/textPosition/pPPfd9Hrf0A",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11712,
+                "end": 11728,
+                "refinedBy": {
+                    "id": "/target/BzeVpnycmXT/selector/textQuote/YCBC7rbgqQg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bertrand Russell",
+                    "prefix": "\n\t\t\t\t\tLogic comes to dominante the philosophical inquiry into language in the work of\n\t\t\t\t\tanglo-american analytic philosophers",
+                    "suffix": "and Alfred North\n\t\t\t\t\tWhitehead, and the group around Rudolf Carnap"
+                }
+            },
+            {
+                "id": "/target/BzeVpnycmXT/selector/css/8IYIezrCUQZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/I4utIZRaelr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/36924137",
+        "type": "crm:E21_Person",
+        "label": "Russell, Bertrand, 1872-1970.",
+        "description": "Russell, Bertrand (Bertrand Arthur William), 1872-1970"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/RboYofcM9hF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/RboYofcM9hF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:49:19.349Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/gBkFC3uFw2t",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gBkFC3uFw2t/selector/textPosition/8Saq0rguLJj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 12736,
+                "end": 12749,
+                "refinedBy": {
+                    "id": "/target/gBkFC3uFw2t/selector/textQuote/beGXm7BVwTx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Fernand Léger",
+                    "prefix": " The distinction\n\t\t\t\t\tbetween a machine aesthetic and a more general aestheticizing of technological\n\t\t\t\t\tprocesses within the celebration of logic and systemality can be elicited from\n\t\t\t\t\tthe different premises exemplified by Lazar El Lissitzky,",
+                    "suffix": " and\n\t\t\t\t\tWassily Kandinsky"
+                }
+            },
+            {
+                "id": "/target/gBkFC3uFw2t/selector/css/QbGsdAtrAPJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/RboYofcM9hF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/34459370",
+        "type": "crm:E21_Person",
+        "label": "Léger, Fernand, 1881-1955.",
+        "description": "Léger, Fernand"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FJsr3AlqTsK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/FJsr3AlqTsK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:47:57.179Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/FXkx2gkwfwz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FXkx2gkwfwz/selector/textPosition/2mIDewl6ypy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 12760,
+                "end": 12777,
+                "refinedBy": {
+                    "id": "/target/FXkx2gkwfwz/selector/textQuote/C1tH2Ammfiz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Wassily Kandinsky",
+                    "prefix": " The distinction\n\t\t\t\t\tbetween a machine aesthetic and a more general aestheticizing of technological\n\t\t\t\t\tprocesses within the celebration of logic and systemality can be elicited from\n\t\t\t\t\tthe different premises exemplified by Lazar El Lissitzky, Fernand Léger, and\n\t\t\t\t",
+                    "suffix": "\n\t\t\t\tIn a 1923 work titled The New Man, El Lissitzky depicts a single\n\t\t\t\t\tfigure, sufficiently anthropomorphic to clearly fulfil the expectations of its\n\t\t\t\t\ttitle, but composed of forms constructed entirely with mechanical drawing\n\t\t\t\t\tinstruments"
+                }
+            },
+            {
+                "id": "/target/FXkx2gkwfwz/selector/css/Exup7xyrjuH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FJsr3AlqTsK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/22143802",
+        "type": "crm:E21_Person",
+        "label": "Kandinsky, Wassily, 1866-1944",
+        "description": "Kandinsky, Wassily"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BndPRh9Io1P">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BndPRh9Io1P",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:51:55.621Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/HbdVSL661rS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/HbdVSL661rS/selector/textPosition/mHv3zsv6g7N",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37962,
+                "end": 37978,
+                "refinedBy": {
+                    "id": "/target/HbdVSL661rS/selector/textQuote/gGY3IEIa8Gx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hauke Brunkhorst",
+                    "prefix": "",
+                    "suffix": " \"Irreconcilable Modernity: Adorno's Aesthetic\n\t\t\t\t\tExperimentalism and the Transgression Theorem,\" in Max Pensky, ed"
+                }
+            },
+            {
+                "id": "/target/HbdVSL661rS/selector/css/6BGH72sQDRb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BndPRh9Io1P]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/265081972",
+        "type": "crm:E21_Person",
+        "label": "Brunkhorst, Hauke.",
+        "description": "Brunkhorst, Hauke, 1945-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/JBxy176nNGz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/JBxy176nNGz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-07-31T14:52:33.286Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/7AT4fvpjgiR",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7AT4fvpjgiR/selector/textPosition/Zina0fGouJz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38784,
+                "end": 38795,
+                "refinedBy": {
+                    "id": "/target/7AT4fvpjgiR/selector/textQuote/aozqhpxXlcU",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Max Kozloff",
+                    "prefix": "",
+                    "suffix": " Cubism/Futurism (New York: Harper Iron, 1973), 40"
+                }
+            },
+            {
+                "id": "/target/7AT4fvpjgiR/selector/css/zmzoOkhlIqK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/JBxy176nNGz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/96424582",
+        "type": "crm:E21_Person",
+        "label": "Kozloff, Max",
+        "description": "Kozloff, Max, 1933-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+			</rdf:RDF>
+		</xenoData>
+	</standOff>
+</TEI>
