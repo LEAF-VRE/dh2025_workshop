@@ -502,7 +502,7 @@
 			<head>Notes</head>
 			<listBibl>
 				<bibl>1. <persName key="Brunkhorst, Hauke." ref="http://viaf.org/viaf/265081972" ana="webannotation:http://temp.lincsproject.ca/BndPRh9Io1P">Hauke Brunkhorst</persName>, "Irreconcilable Modernity: Adorno's Aesthetic
-					Experimentalism and the Transgression Theorem," in Max Pensky, ed., The
+					Experimentalism and the Transgression Theorem," in <persName key="Pensky, Max, 1961-...." ref="http://viaf.org/viaf/113243046" ana="webannotation:http://temp.lincsproject.ca/IGu36H0MQEJ">Max Pensky</persName>, ed., The
 					Actuality of Adorno (Albany: State University of New York Press, 1997).</bibl>
 				<bibl>2. The work of Mark Pauline and the Survivor Research Lab, performance and
 					robotic artist Stelarc, video artist Alan Rath, sculptor <persName key="Zweig, Janet" ref="http://viaf.org/viaf/26094276" ana="webannotation:http://temp.lincsproject.ca/60Pbg649jPm">Janet Zweig</persName>, and the
@@ -3387,6 +3387,93 @@
         "type": "crm:E21_Person",
         "label": "Leibniz, Gottfried Wilhelm, 1646-1716.",
         "description": "Leibniz, Gottfried Wilhelm, Freiherr von, 1646-1716"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IGu36H0MQEJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IGu36H0MQEJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-08-06T13:47:55.386Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/Zwal8VLmX5B",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Zwal8VLmX5B/selector/textPosition/1Z5FtPUXwft",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38082,
+                "end": 38092,
+                "refinedBy": {
+                    "id": "/target/Zwal8VLmX5B/selector/textQuote/ox1SkSPfej7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Max Pensky",
+                    "prefix": " Hauke Brunkhorst, \"Irreconcilable Modernity: Adorno's Aesthetic\n\t\t\t\t\tExperimentalism and the Transgression Theorem,\" in",
+                    "suffix": " ed"
+                }
+            },
+            {
+                "id": "/target/Zwal8VLmX5B/selector/css/pvWLHZfbDu0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IGu36H0MQEJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/113243046",
+        "type": "crm:E21_Person",
+        "label": "Pensky, Max, 1961-....",
+        "description": "Pensky, Max"
     },
     "P2_has_type": [
         "oa:identifying"
