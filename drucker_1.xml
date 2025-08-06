@@ -505,7 +505,7 @@
 					Experimentalism and the Transgression Theorem," in Max Pensky, ed., The
 					Actuality of Adorno (Albany: State University of New York Press, 1997).</bibl>
 				<bibl>2. The work of Mark Pauline and the Survivor Research Lab, performance and
-					robotic artist Stelarc, video artist Alan Rath, sculptor Janet Zweig, and the
+					robotic artist Stelarc, video artist Alan Rath, sculptor <persName key="Zweig, Janet" ref="http://viaf.org/viaf/26094276" ana="webannotation:http://temp.lincsproject.ca/60Pbg649jPm">Janet Zweig</persName>, and the
 					collaborationtive work of Heather Schatz and Eric Chan, to name a
 					handful.</bibl>
 				<bibl>3. See <persName key="Osborne, Peter, 1958-...." ref="http://viaf.org/viaf/76368749" ana="webannotation:http://temp.lincsproject.ca/lYPBBZSyJOl">Peter Osborne</persName>, "Adorno and the Metaphysics of Modernism: The Problem of
@@ -3387,6 +3387,93 @@
         "type": "crm:E21_Person",
         "label": "Leibniz, Gottfried Wilhelm, 1646-1716.",
         "description": "Leibniz, Gottfried Wilhelm, Freiherr von, 1646-1716"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/60Pbg649jPm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/60Pbg649jPm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-08-06T13:47:20.964Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/lFzZMBLQKFV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/lFzZMBLQKFV/selector/textPosition/iMt26bcyDAy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38321,
+                "end": 38332,
+                "refinedBy": {
+                    "id": "/target/lFzZMBLQKFV/selector/textQuote/asmiPzkbqpm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Janet Zweig",
+                    "prefix": " The work of Mark Pauline and the Survivor Research Lab, performance and\n\t\t\t\t\trobotic artist Stelarc, video artist Alan Rath, sculptor",
+                    "suffix": " and the\n\t\t\t\t\tcollaborationtive work of Heather Schatz and Eric Chan, to name a\n\t\t\t\t\thandful"
+                }
+            },
+            {
+                "id": "/target/lFzZMBLQKFV/selector/css/0wjq4V9vivQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/60Pbg649jPm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26094276",
+        "type": "crm:E21_Person",
+        "label": "Zweig, Janet",
+        "description": "Zweig, Janet, 1950-...."
     },
     "P2_has_type": [
         "oa:identifying"
