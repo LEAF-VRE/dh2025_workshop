@@ -508,7 +508,7 @@
 					robotic artist Stelarc, video artist Alan Rath, sculptor Janet Zweig, and the
 					collaborationtive work of Heather Schatz and Eric Chan, to name a
 					handful.</bibl>
-				<bibl>3. See Peter Osborne, "Adorno and the Metaphysics of Modernism: The Problem of
+				<bibl>3. See <persName key="Osborne, Peter, 1958-...." ref="http://viaf.org/viaf/76368749" ana="webannotation:http://temp.lincsproject.ca/lYPBBZSyJOl">Peter Osborne</persName>, "Adorno and the Metaphysics of Modernism: The Problem of
 					a ‘Postmodern' Art" and Peter Dews, "Adorno, Poststructuralism, and the Critique
 					of Identity," both in Andrew Benjamin, ed., The Problems of Modernity: Adorno
 					and Benjamin (New York: Routledge, 1989).</bibl>
@@ -3387,6 +3387,93 @@
         "type": "crm:E21_Person",
         "label": "Leibniz, Gottfried Wilhelm, 1646-1716.",
         "description": "Leibniz, Gottfried Wilhelm, Freiherr von, 1646-1716"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lYPBBZSyJOl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lYPBBZSyJOl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-08-06T13:46:34.379Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/vIqV0MVEeXJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vIqV0MVEeXJ/selector/textPosition/SQsynscwZ9P",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38438,
+                "end": 38451,
+                "refinedBy": {
+                    "id": "/target/vIqV0MVEeXJ/selector/textQuote/3AjkEz1eBLf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Peter Osborne",
+                    "prefix": " See",
+                    "suffix": " \"Adorno and the Metaphysics of Modernism: The Problem of\n\t\t\t\t\ta ‘Postmodern' Art\" and Peter Dews, \"Adorno, Poststructuralism, and the Critique\n\t\t\t\t\tof Identity,\" both in Andrew Benjamin, ed"
+                }
+            },
+            {
+                "id": "/target/vIqV0MVEeXJ/selector/css/2DAIXCBeTr7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lYPBBZSyJOl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/76368749",
+        "type": "crm:E21_Person",
+        "label": "Osborne, Peter, 1958-....",
+        "description": "Osborne, Peter"
     },
     "P2_has_type": [
         "oa:identifying"
