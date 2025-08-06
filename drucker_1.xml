@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="https://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -100,7 +97,7 @@
 					an image can be "reduced to or is "equivalent to" a data file, an algorithm, a
 					program, or any mathematical, quantifiable identity are all ideas which give
 					rise to a notion of digital identity as absolute and certain.</p>
-				<p>Leibniz's dream is <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/lkmq0y9HsWj">Adorno</persName>'s nightmare—and <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/25AWF67osEe">Adorno</persName> and <persName key="Horkheimer, Max, 1895-1973." ref="http://viaf.org/viaf/14771315" ana="webannotation:http://temp.lincsproject.ca/e43LM9XWag5">Max Horkheimer</persName> were quite
+				<p><persName key="Leibniz, Gottfried Wilhelm, 1646-1716." ref="http://viaf.org/viaf/9849392" ana="webannotation:http://temp.lincsproject.ca/s3ZkUC0NwRn">Leibniz</persName>'s dream is <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/lkmq0y9HsWj">Adorno</persName>'s nightmare—and <persName key="Adorno, Theodor W., 1903-1969." ref="http://viaf.org/viaf/95247377" ana="webannotation:http://temp.lincsproject.ca/25AWF67osEe">Adorno</persName> and <persName key="Horkheimer, Max, 1895-1973." ref="http://viaf.org/viaf/14771315" ana="webannotation:http://temp.lincsproject.ca/e43LM9XWag5">Max Horkheimer</persName> were quite
 					clear on this point in <title>Dialectics of Enlightenment</title>, when they
 					suggested that <persName key="Kant, Immanuel, 1724-1804." ref="http://viaf.org/viaf/82088490" ana="webannotation:http://temp.lincsproject.ca/dJzHBs16ZkG">Kant</persName>'s aesthetics of purposelessness is a necessary (the only)
 					antidote and means of resistance to the domination by all sections of society
@@ -3309,7 +3306,97 @@
     ]
 }]]>
 				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/s3ZkUC0NwRn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/s3ZkUC0NwRn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-08-06T13:26:34.636Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/g5CDAY5Hpqq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/g5CDAY5Hpqq/selector/textPosition/0u2MuljoUZG",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6317,
+                "end": 6324,
+                "refinedBy": {
+                    "id": "/target/g5CDAY5Hpqq/selector/textQuote/2VLKEXD9nML",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Leibniz",
+                    "prefix": "\n\t\t\t",
+                    "suffix": "s dream is Adorno's nightmare—and Adorno and Max Horkheimer were quite\n\t\t\t\t\tclear on this point in Dialectics of Enlightenment, when they\n\t\t\t\t\tsuggested that Kant's aesthetics of purposelessness is a necessary (the only)\n\t\t\t\t\tantidote and means of resistance to the domination by all sections of society\n\t\t\t\t\tand culture by the enslaving"
+                }
+            },
+            {
+                "id": "/target/g5CDAY5Hpqq/selector/css/uyyixe1NPYz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/s3ZkUC0NwRn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/9849392",
+        "type": "crm:E21_Person",
+        "label": "Leibniz, Gottfried Wilhelm, 1646-1716.",
+        "description": "Leibniz, Gottfried Wilhelm, Freiherr von, 1646-1716"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
 			</rdf:RDF>
+		
 		</xenoData>
+	
 	</standOff>
+
 </TEI>
