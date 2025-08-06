@@ -516,7 +516,7 @@
 				<bibl>5. <persName key="Kozloff, Max" ref="http://viaf.org/viaf/96424582" ana="webannotation:http://temp.lincsproject.ca/JBxy176nNGz">Max Kozloff</persName>, Cubism/Futurism (New York: Harper Iron, 1973), 40.</bibl>
 				<bibl>6. Stephen Kern, The Culture of Time and Space (Cambridge: Harvard University
 					Press, 1983).</bibl>
-				<bibl>7. Stephan Bann, ed., The Tradition of Construction (New York: Da Capo,
+				<bibl>7. Stephan Bann, ed., The Tradition of Construction (New York: <orgName key="Da Capo press" ref="http://viaf.org/viaf/142782227" ana="webannotation:http://temp.lincsproject.ca/Ge4aZ0GqMjJ">Da Capo</orgName>,
 					1974).</bibl>
 				<bibl>8. Richard Hollis, Graphic Design: A Concise History (London: </bibl></listBibl></back></text>
 	<standOff type="annotation">
@@ -3387,6 +3387,93 @@
         "type": "crm:E21_Person",
         "label": "Leibniz, Gottfried Wilhelm, 1646-1716.",
         "description": "Leibniz, Gottfried Wilhelm, Freiherr von, 1646-1716"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				</rdf:Description>
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Ge4aZ0GqMjJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Ge4aZ0GqMjJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2025-08-06T13:29:29.607Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.1.0"
+    },
+    "target": {
+        "id": "/target/Jta0ZvxkRlT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/main/drucker_1.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Digital_hybridity_and_the_ques"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Jta0ZvxkRlT/selector/textPosition/r6eQX5CifZS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39016,
+                "end": 39023,
+                "refinedBy": {
+                    "id": "/target/Jta0ZvxkRlT/selector/textQuote/z8gZHq4seYy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Da Capo",
+                    "prefix": ", The Tradition of Construction (New York:",
+                    "suffix": "\n\t\t\t\t\t1974)"
+                }
+            },
+            {
+                "id": "/target/Jta0ZvxkRlT/selector/css/s7NZeN34zaH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Ge4aZ0GqMjJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/142782227",
+        "type": "crm:E74_Group",
+        "label": "Da Capo press",
+        "description": "Da Capo Press American publisher; book publishing imprint of Perseus Books Group from 1999; in turn under Hachette Books"
     },
     "P2_has_type": [
         "oa:identifying"
